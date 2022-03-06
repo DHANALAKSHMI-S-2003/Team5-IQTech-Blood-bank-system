@@ -154,7 +154,8 @@ public class JdbcDemo {
 
 	
 
-	
+	//method to edit donor details
+	public static void EditDonorDetails(Connection con1)throws Exception {
 
 		Scanner sc=new Scanner(System.in);
 
